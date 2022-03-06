@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class no9 {
+public class number9 {
 	public static void main(String[] Strings){
 		
 		Scanner insert = new Scanner(System.insert);
